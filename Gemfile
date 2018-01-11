@@ -55,4 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'opal-jquery', github: 'opal/opal-jquery', branch: 'master'
 gem 'opal-rails', github: 'opal/opal-rails', branch: 'master'
+gem "react-rails", '~> 2.3.1'
 gem 'hyperloop', '1.0.0-lap16'
