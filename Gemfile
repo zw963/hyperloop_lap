@@ -52,3 +52,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'opal-jquery', github: 'opal/opal-jquery', branch: 'master'
+gem 'opal-rails', github: 'opal/opal-rails', branch: 'master'
+gem 'hyperloop', '1.0.0-lap16'
